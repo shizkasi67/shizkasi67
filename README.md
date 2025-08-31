@@ -3,7 +3,7 @@
 
 - 🌱 estoy aprendiendo **en cursos de inteligencia artificial**
 
-- 👨‍💻 Todos mis proyectos estan en [https://github.com/shizkasi67/Portafolio]([https://github.com/shizkasi67/Portafolio](https://github.com/shizkasi67))
+- 👨‍💻 Todos mis proyectos estan en [[https://github.com/shizkasi67/Portafolio](https://github.com/shizkasi67)]([https://github.com/shizkasi67/Portafolio](https://github.com/shizkasi67))
 
 - 💬 Preguntame sobre **HTML, CSS, JavaScript, Android Studio, C#, SQL/MySQL.**
 
