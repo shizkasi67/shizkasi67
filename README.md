@@ -1,11 +1,7 @@
 <h1 align="center">Hola, soy Luciano Lopez</h1>
 <h3 align="center">💻 Ingeniero en Informática</h3>
 
-- 🌱 estoy aprendiendo **en cursos de inteligencia artificial**
-
 - 👨‍💻 Todos los proyectos estan en [https://github.com/shizkasi67](https://github.com/shizkasi67)
-
-- 💬 Preguntame sobre **HTML, CSS, JavaScript, Android Studio, C#, SQL/MySQL.**
 
 - 📫 Para contactarme **Lucianozx29@gmail.com**
 
