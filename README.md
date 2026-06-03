@@ -3,7 +3,7 @@
 
 - 👨‍💻 Todos los proyectos estan en [https://github.com/shizkasi67](https://github.com/shizkasi67)
 
-- 📫 Para contactarme **Lucianozx29@gmail.com**
+- 📫 Para contactarme **Luciano.lopezce@gmail.com**
 
 
 <p align="left">
