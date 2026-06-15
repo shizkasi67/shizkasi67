@@ -53,4 +53,3 @@ Si necesitás un sistema web a medida, escribime:
 
 - **Email:** luciano.lopezce@gmail.com
 - **LinkedIn:** [linkedin.com/in/luciano-lopez-4a7370403](https://www.linkedin.com/in/luciano-lopez-4a7370403/)
-- **WhatsApp:** +56 9 6408 2313
